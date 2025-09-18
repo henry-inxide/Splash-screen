@@ -71,7 +71,7 @@ def splash():
 </style>
 <script>
     setTimeout(() => {
-        window.location.href = "https://example.com";  // Apna panel ka link yaha dalna
+        window.location.href = "https://minimum-merlina-henrykinghere-9e5f9eb1.koyeb.app/";  // Apna panel ka link yaha dalna
     }, 3000);  // 3 sec splash
 </script>
 </head>
