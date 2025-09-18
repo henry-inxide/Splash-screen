@@ -76,7 +76,7 @@ def splash():
 </script>
 </head>
 <body>
-    <img class="splash-image" src="https://i.imgur.com/DmqE91t.jpeg" alt="Splash">
+    <img class="splash-image" src="https://i.imgur.com/B2iRAOX.jpeg" alt="Splash">
     <div class="loader"></div>
     <div class="loading-text">Please Wait...</div>
 </body>
